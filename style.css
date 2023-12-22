@@ -52,19 +52,5 @@ body {
     background-color: #f9f9f9;
     }
     
-    .download-button {
-    display: block;
-    background-color: #3498db;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 5px;
-    margin-top: 20px;
-    }
-    
-    .download-button:hover {
-    background-color: #2980b9;
-    }
     
     
