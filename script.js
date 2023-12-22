@@ -1,5 +1,5 @@
 function downloadResume() {
-    var element = document.getElementById('resume');
+    var element = document.getElementById('resume'); // Replace 'resume' with the ID of your resume container
     
     // Use html2pdf's promise-based API for better control
     html2pdf(element)
@@ -14,6 +14,3 @@ function downloadResume() {
             link.click();
         });
 }
-
-    
-    
